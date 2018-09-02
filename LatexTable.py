@@ -9,3 +9,5 @@ for values in data:
 	latex_code = latex_code[:-3] + " \\\\ \\hline\n"
 latex_code += footer 
 print(latex_code)
+pc.copy(latex_code)
+print("CODE COPIED TO CLIPBOARD :)")
