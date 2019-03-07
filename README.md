@@ -1,4 +1,4 @@
-# PythonEveryday
+# EverydayPython
 Lazyscripts I wrote for menial tasks to make my life easier
 
 Latex Table - Generate Tables in LaTeX just by copying the data from Spreadsheet software.
